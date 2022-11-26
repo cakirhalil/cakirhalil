@@ -7,7 +7,6 @@ I'm currently learning C# , SQL and PYTHON
 [Mail on : halilcakir343@gmail.com]
 <br />
 
-[Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
