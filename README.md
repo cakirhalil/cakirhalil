@@ -1,6 +1,10 @@
 Hi there,I'm Halil :)
 
-I'm currently learning C# , SQL and PYTHON 
+I'm currently learning 
+C# ,
+SQL 
+HTML-CSS-JS 
+and PYTHON 
 
 📩 Connect with me:
 <br>
