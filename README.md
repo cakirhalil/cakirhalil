@@ -2,7 +2,7 @@ Hi there,I'm Halil :)
 
 I'm currently learning 
 C# ,
-SQL 
+SQL,
 HTML-CSS-JS 
 and PYTHON 
 
