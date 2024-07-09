@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,I'm Halil :)<br><br>I'm currently learning C# , SQL, HTML-CSS-JS, Flutter and PYTHON<br><br>📩 Connect with me:<br>[Mail on : halilcakir343@gmail.com]
+Hi there,I'm Halil :)<br><br>I am someone who develops himself in the field of software and design.<br><br>📩 Connect with me:<br>[Mail on : halilcakir343@gmail.com]
 
 
 ## 🌐 Socials:
